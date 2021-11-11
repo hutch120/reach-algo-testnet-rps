@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "Launch Program",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/index.mjs",
+            "env": {
+                "ALICE_PHRASE": "chef daughter double scene comfort spawn meat envelope vast fantasy protect capital hospital endorse ripple tenant tent quote floor senior decade ceiling road about vanish",
+                "BOB_PHRASE": "elbow bird scorpion remind hybrid cradle pyramid route depend army lab wasp speed pizza broccoli tiny idea finish mom wreck immune sheriff extra above clay"
+            },
+        }
+    ]
+}
